@@ -1,0 +1,18 @@
+{
+    "name": "imi/itools",
+    "description": "iMi standard tools",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Alexander Menk",
+            "email": "a.menk@imi.de"
+        }
+    ],
+    "require": {
+		"consolidation/robo": "^1.0",
+		"imi/conrun": "^1.7",
+		"n98/magerun": "^1.97",
+		"wp-cli/wp-cli": "^1.1",
+		"n98/magerun2": "^1.97"
+	}
+}
