@@ -13,6 +13,6 @@
 		"imi/conrun": "^1.7",
 		"n98/magerun": "^1.97",
 		"wp-cli/wp-cli": "^1.1",
-		"n98/magerun2": "^1.97"
+		"n98/magerun2": "^1.0"
 	}
 }
